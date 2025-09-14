@@ -19,7 +19,7 @@ const sourceSans = Source_Sans_3({
 })
 
 export const metadata: Metadata = {
-  title: "Dreams - Premier Digital Marketing Agency",
+  title: "Promivra - Premier Digital Marketing Agency",
   description:
     "Transform your business with cutting-edge digital marketing strategies. SEO, Social Media, Branding & More.",
   generator: "v0.app",
