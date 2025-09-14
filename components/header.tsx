@@ -62,12 +62,12 @@ export function Header() {
             >
               Contact
             </button>
-            {/* <ThemeToggle /> */}
+            <ThemeToggle />
           </nav>
 
           {/* Mobile Menu Button */}
           <div className="md:hidden flex items-center space-x-2">
-            {/* <ThemeToggle /> */}
+            <ThemeToggle />
             <Button variant="ghost" size="icon" onClick={() => setIsMenuOpen(!isMenuOpen)}>
               {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
             </Button>
