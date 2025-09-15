@@ -48,7 +48,7 @@ export function AboutSection() {
           {/* Heading */}
           <div className="text-center mb-14">
             <h2 className="text-4xl md:text-5xl font-extrabold mb-4 text-white">
-              About <span className="text-purple-400">Cubeeto</span>
+              About <span className="text-purple-400">Promivra</span>
             </h2>
             <p className="text-base md:text-lg lg:text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
               We’re shaping the future of digital growth with AI-powered
